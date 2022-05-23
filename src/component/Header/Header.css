@@ -1,0 +1,48 @@
+.logo {
+  text-transform: uppercase;
+  color: #ff4917 !important;
+  font-size: 35px;
+  font-weight: 800;
+}
+
+.navbar-nav {
+  margin-left: 150px;
+}
+
+.nav-link {
+  color: #14212a !important;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.consulting-btn-container {
+  position: relative;
+}
+
+.consulting-btn {
+  padding: 15px 20px;
+  background-color: #162029;
+  border-radius: 34px;
+  border: none;
+  z-index: -1;
+}
+
+.consulting-btn a {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  z-index: 2;
+  text-decoration: none;
+}
+
+.popper-color {
+  position: absolute;
+  left: 100px;
+  width: 83px;
+  height: 60px;
+  background-color: #ff4917;
+  border-radius: 34px;
+  z-index: -1;
+}

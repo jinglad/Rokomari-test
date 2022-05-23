@@ -1,0 +1,13 @@
+.footer-subheading {
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: -.02em;
+  color: white!important;
+}
+
+.footer-list {
+  color: #788B9A!important;
+  font-size: 16px;
+  letter-spacing: -.02em;
+  line-height: 42px;
+}

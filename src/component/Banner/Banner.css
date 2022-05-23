@@ -1,0 +1,64 @@
+.banner-container {
+  background: linear-gradient(rgb(22, 32, 41, .65), rgb(22, 32, 41, .65)),url("../../../public/images/banner-image.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+
+.banner-heading {
+  color: white; 
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.banner-subheading {
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: 0.68rem;
+  color: white;
+}
+
+.single-banner{
+  padding-top: 100px;
+}
+
+.freez-btn1{
+  padding: 15px 30px;
+  background-color: #162029;
+  border-radius: 34px;
+  border: none;
+  color: white;
+  background-color: #FF4917;
+  z-index: -1;
+}
+
+.freez-btn2{
+  background-color: #FCFCFC;
+  padding: 15px 30px;
+  background-color: #FCFCFC;
+  border-radius: 34px;
+  border: none;
+  color: #162029;
+  z-index: -1;
+}
+
+.popper-color {
+  position: absolute;
+  left: 100px;
+  top: -5px;
+  padding: 12px 17px;
+  background-color: #ff4917;
+  border-radius: 34px;
+}
+
+.banner-btn-text{
+  font-size: 20px;
+  font-weight: 700;
+  z-index: 8;
+}
+
+
+
+

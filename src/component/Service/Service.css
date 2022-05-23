@@ -1,0 +1,13 @@
+.single-service {
+  padding: 30px 20px;
+  box-shadow: 0 0 5px lightgray;
+  border-radius: 10px;
+  border-bottom: 5px solid #ECEEED;
+  text-align: center;
+  height: '300px';
+  transition: .3s ease-in-out;
+}
+
+.single-service:hover{
+  border-color: #FF4917;
+}
